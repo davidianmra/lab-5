@@ -6,7 +6,7 @@
 
 #include "Pokemon.hpp"
 #include "Trainer.hpp"
-
+/////Alison is funny
 using namespace std;
 
 int main(int argc, char *argv[]) {
